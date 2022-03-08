@@ -1,4 +1,4 @@
-# Hashing_program
+# Hashing project
 
 This project is a text hashing program made for academic purposes.
 It's made using purely C++ programming language.
